@@ -28,6 +28,10 @@ data/processed/
 # Plots (generated at runtime)
 *.png
 *.pdf
+*.ps
+
+# Markdown (keep in local workspace; excluded from remote)
+*.md
 
 # IDE
 .vscode/
